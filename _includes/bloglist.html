@@ -1,0 +1,25 @@
+<div id="bloglist" class="page">
+<div class="container">
+    <!-- Title Page -->
+    <div class="row">
+        <div class="span12">
+            <div class="title-page">
+                <h2 class="title">Bloggy Blog</h2>
+                <h3 class="title-description">Here are some blog posts</h3>
+            </div>
+        </div>
+    </div>
+    <!-- End Title Page -->
+
+    <!-- Contact -->
+    <div class="row">
+      <ul>
+        {% for post in site.posts %}
+          <li>{{ post.title }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    <!-- End Contact Form -->
+</div>
+</div>
+<!-- End Contact Section -->
