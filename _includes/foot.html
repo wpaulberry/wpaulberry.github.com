@@ -6,3 +6,22 @@
     </div>
   </div>
 </footer>
+<script>
+//This is hacky-af, but let it roll for now?
+var elems = [
+  {tag: "h1", class: "txt-h1"},
+  {tag: "h2", class: "txt-h2"},
+  {tag: "h3", class: "txt-h3"},
+  {tag: "h4", class: "txt-h4"},
+  {tag: "h5", class: "txt-h5"},
+  {tag: "h6", class: "txt-h6"},
+  {tag: "blockquote", class: "txt-blockquote"}
+]
+for (var i in elems){
+  document.querySelectorAll(elems[i].tag).forEach(function(item){
+    item.className += " " + elems[i].class
+  })
+}
+
+//TODO: Google Analytics
+</script>

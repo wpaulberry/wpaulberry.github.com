@@ -1,0 +1,18 @@
+<div id="posts" class="mt12" style="clear:both;">
+
+  <h2 class="txt-h2">My work</h2>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li class="mb12">
+        <a class="flex-parent flex-parent--center-main" href="{{post.url}}">
+          <div class="flex-child flex-child--grow">
+            <h3 class="link txt-xl">{{ post.title }}</h3>
+            <p class="prose">{{ post.teaser }}</p>
+          </div>
+          <img class="post-thumb flex-child" src="{{post.thumb}}" width="250">
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
