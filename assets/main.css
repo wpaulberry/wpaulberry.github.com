@@ -1,14 +1,57 @@
-div.page-wrapper{
-  width: 800px;
-  max-width:800px;
-  margin: 0px auto;
-  border: 1px black dashed;
+body{
+  background-color: #FAFAFA;
 }
 
+div#page-bg{
+  position: absolute;
+  z-index:-1;
+  width:100%;
+  top: 0;
+  left: 0;
+}
+
+div.page-content{
+  width: 80% !important;
+  min-width: 400px !important;
+  background-color: #FAFAFF;
+  opacity: 0.9;
+}
 
 nav.sticky-nav{
-  position: absolute;
+  position: fixed;
   top: 0px;
   left: 0px;
   display: block;
+  width: 100%;
+  background-color: rgb(48,51,56);
+  border-bottom: 7px solid #666;
+}
+
+nav div.content{
+  width: 80% !important;
+  min-width: 400px !important;
+  margin: 0 auto;
+}
+
+nav ul li a.active{
+  background-color: #666;
+}
+
+nav ul li a:visited{
+  color:white;
+}
+
+footer.sticky-footer{
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  width: 100%;
+  background-color: #FAFAFA;
+}
+
+footer div.content{
+  margin: 0 auto;
+  width: 80% !important;
+  min-width: 400px !important;
 }

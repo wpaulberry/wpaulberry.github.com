@@ -4,18 +4,20 @@
 
   <body>
 
-    <div id="page-bg" class="viewport-almost" style='background-image:linear-gradient(to bottom, transparent 0%, #FAFAFA 100%),
-    url("/assets/img/header-images/{{page.bg-image}}")'></div>
-
     {% include nav.html %}
+
+    <div id="page-bg" class="viewport-almost" style='background-image:linear-gradient(to bottom, transparent 0%, white 100%),
+    url("/assets/img/header-images/{{page.bg-image}}")'></div>
 
     <div class="flex-parent flex-parent--center-main mt180">
 
       <div class="page-content flex-child p12">
 
-  			<div class="page-body viewport-twothirds">
+  			<div class="home-body">
 
           {{content}}
+
+          {% include blog.html %}
 
   			</div>
 

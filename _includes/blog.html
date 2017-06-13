@@ -1,24 +1,11 @@
-<div id="bloglist" class="page">
-    <!-- Title Page -->
-    <div class="row">
-        <div class="span12">
-            <div class="title-page">
-                <h2 class="title">Blog Posts</h2>
-                <h3 class="title-description">Here will be some blog posts</h3>
-            </div>
-        </div>
-    </div>
-    <!-- End Title Page -->
+<div id="posts">
 
-    <!-- Contact -->
-    <div class="row">
-      <ul>
-        {% for post in site.posts %}
-          <li>{{ post.title }}</li>
-        {% endfor %}
-      </ul>
-    </div>
-    <!-- End Contact Form -->
+  <h2 class="title">Blog Posts</h2>
+  <h3 class="title-description">Here will be some blog posts</h3>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li class="txt-l">{{ post.title }}</li>
+    {% endfor %}
+  </ul>
 </div>
-</div>
-<!-- End Contact Section -->
