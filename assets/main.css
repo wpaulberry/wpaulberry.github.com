@@ -18,9 +18,13 @@ div.page-content{
 }
 
 ul.post-list{
-  width: 75%;
+  width: 80%;
   margin: 0 auto;
   min-width: 400px;
+}
+
+ul.post-list li{
+  transition: 1s;
 }
 
 nav.sticky-nav{
@@ -48,14 +52,19 @@ nav ul li a:visited{
   color:white;
 }
 
-footer.sticky-footer{
-  position: fixed;
-  bottom: 0px;
-  left: 0px;
+footer{
   display: block;
   width: 100%;
   background-color: #FAFAFA;
 }
+
+footer.sticky-footer{
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+}
+
+
 
 footer div.content{
   margin: 0 auto;

@@ -9,9 +9,24 @@
 
     {% include nav.html %}
 
-    <div class="flex-parent flex-parent--center-main mt180">
+
+    <div class="flex-parent flex-parent--wrap flex-parent--stretch-cross flex-parent--center-main mt180">
 
       <div class="page-content flex-child p12">
+
+        <div class="flex-child flex-parent flex-parent--space-between-main flex-parent--center-main">
+          <div class="flex-child previous mr12">
+            {% if page.previous %}
+              <a class="link txt-l" href="{{ page.previous.url }}"><< Previous: {{page.previous.title}} </a>
+            {% endif  %}
+          </div>
+
+          <div class="flex-child next ml12">
+            {% if page.next %}
+              <a class="link txt-l" href="{{ page.next.url }}">Next: {{page.next.title}} >></a>
+            {% endif  %}
+          </div>
+        </div>
 
   			<div class="page-body">
 
@@ -20,6 +35,20 @@
           {{content}}
 
   			</div>
+
+        <div class="flex-child flex-parent flex-parent--space-between-main flex-parent--center-main">
+          <div class="flex-child previous mr12">
+            {% if page.previous %}
+              <a class="link txt-l" href="{{ page.previous.url }}"><< Previous: {{page.previous.title}} </a>
+            {% endif  %}
+          </div>
+
+          <div class="flex-child next ml12">
+            {% if page.next %}
+              <a class="link txt-l" href="{{ page.next.url }}">Next: {{page.next.title}} >></a>
+            {% endif  %}
+          </div>
+        </div>
 
       </div>
 
