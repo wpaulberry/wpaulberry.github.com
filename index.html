@@ -1,43 +1,25 @@
 ---
-layout: home
+#just leave these lines here
 ---
 
-<!-- This section is for Splash Screen -->
-<div class="ole">
-<section id="jSplash">
-	<div id="circle"></div>
-</section>
-</div>
-<!-- End of Splash Screen -->
+<html lang="en-US"> <!--<![endif]-->
 
-<!-- Homepage Slider -->
-<div id="home-slider">
-    <div class="overlay"></div>
+  {% include head.html %}
 
-    <div class="Paul Berry">
-    	<div id="slidecaption"></div>
+  <body>
+
+    <div class="page-wrapper">
+
+      {% include nav.html %}
+
+			<div class="home-body">
+
+			</div>
+
+
+      {% include foot.html %}
+
     </div>
 
-	<div class="control-nav">
-        <a id="prevslide" class="load-item"><i class="font-icon-arrow-simple-left"></i></a>
-        <a id="nextslide" class="load-item"><i class="font-icon-arrow-simple-right"></i></a>
-        <ul id="slide-list"></ul>
-
-        <a id="nextsection" href="#work"><i class="font-icon-arrow-simple-down"></i></a>
-    </div>
-</div>
-<!-- End Homepage Slider -->
-
-{% include header.html %}
-
-{% include my_work.html %}
-
-{% include about.html %}
-
-{% include bloglist.html %}
-
-{% include contact.html %}
-
-
-
-
+  </body>
+</html>

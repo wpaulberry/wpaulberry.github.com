@@ -1,0 +1,14 @@
+div.page-wrapper{
+  width: 800px;
+  max-width:800px;
+  margin: 0px auto;
+  border: 1px black dashed;
+}
+
+
+nav.sticky-nav{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+}
