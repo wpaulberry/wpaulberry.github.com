@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  Another dental thing
+title:  First esthetic restoration...
 date:   2017-04-10 17:14:19 -0700
 categories: root
-thumb: /assets/img/work/thumbs/3-oblique.jpg
+thumb: /assets/img/posts/esthetic/thumb.jpg
 teaser: >
-  Here's a big block of text about this particular job.
+  My first clinical esthetic case...
 ---
-
-# A dental thing.
-
-A post with a lot of pictures.
+I replaced the failing DF composites on #8. Color matching and translucency are far from perfect, but a fun first esthetic case. Next up is #9, 10, and 11.

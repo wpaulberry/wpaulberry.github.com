@@ -5,13 +5,15 @@ bg-image: jump.jpg
 
 <img src="/assets/img/profile/faceprofile_sm.jpg" style="float:right;" class="mr12 border border--gray border--2"/>
 
-## Paul Berry, Future DDS.
+## Paul Berry - DDS Candidate 2019
 
-This is where you can write a bit more about what you want people to see on the front page.
+
+I'm a 2nd year student at the University of Colorado School of Dental Medicine. This is where I post occasionally about my experiences in Dental School.
+
+
 
 - list
-- more list
 
-> blockquote
+> B
 
-the layout of this front page just requires some more content and then we can push things around.
+More text.

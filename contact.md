@@ -6,21 +6,11 @@ bg-image: snow.jpg
 
 <img src="/assets/img/profile/faceprofile_sm.jpg" style="float:right;" class="mr12 border border--gray border--2"/>
 
-# Hi
-## My
-### Name
-#### Is
-##### William
-###### Paul
-Berry
+# Paul Berry
 
+Feel free to get in touch...I'd love to start a conversation.
+- ...
 
-That is how you use different sizes
+970.819.4697
 
-
-You can even make a little table:
-
-| Key   | Value|
-|-------|------|
-|Dentist|Fun   |
-|Drill  |Good  |
+wpberry@gmail.com
