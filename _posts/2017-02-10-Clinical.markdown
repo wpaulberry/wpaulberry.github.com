@@ -1,0 +1,12 @@
+---
+layout: post
+title:  Clinical
+date:   2017-02-10 17:14:19 -0700
+categories: Clinical
+thumb: /assets/img/work/thumbs/5-ur quad.jpg
+teaser: >
+  Intro Text
+---
+## Today I filled a tooth
+
+![waxup](/assets/img/work/full/5-ur quad.jpg)
