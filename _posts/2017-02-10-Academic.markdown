@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  Clinical
+title:  Academic
 date:   2017-02-10 17:14:19 -0700
-categories: Clinical
-thumb: /assets/img/work/thumbs/5-ur quad.jpg
+categories: Academic  
+thumb: /assets/img/work/thumbs/7-nerves.jpg
 teaser: >
-  Intro Text
+  Preclinical coursework highlights...
 ---
 ## Today I filled a tooth
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  Clinical
+title:  Dentures Lab
 date:   2017-02-10 17:14:19 -0700
 categories: Clinical
 thumb: /assets/img/work/thumbs/denture.jpg
 teaser: >
-  Intro text.
+  CRDP Lab...
 ---
 
-# A root canal.
+# Lab work.
 
-Text related to this post.
+This semester (Fall DS2) we embarked on making Complete Dentures...
