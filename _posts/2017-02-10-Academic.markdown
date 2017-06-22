@@ -3,7 +3,7 @@ layout: post
 title:  Academic
 date:   2017-02-10 17:14:19 -0700
 categories: Academic  
-thumb: /assets/img/work/thumbs/7-nerves.jpg
+thumb: /assets/img/work/thumbs/nerves.jpg
 teaser: >
   Preclinical coursework highlights...
 ---
