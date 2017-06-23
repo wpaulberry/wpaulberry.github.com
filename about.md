@@ -11,11 +11,11 @@ bg-image: trees.jpg
 **why Dentistry?**
 
 - -I get to make things with **my hands**
-insert photo here
+(insert photo here)
 - -I get to work with **people**
-insert photo here
+(insert photo here)
 - -I enjoy **solving problems**
-insert photo here
+(insert photo here)
 
 **what are my goals...**
 
