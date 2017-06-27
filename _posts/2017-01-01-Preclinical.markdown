@@ -10,6 +10,7 @@ teaser: >
 
 This semester we've been working on our FDP preps and provisionals.
 <br>
+<br>
 Preps...
 <br>
 <img src="/assets/img/work/full/18_20_B.jpg" style="float:left;" class="mr12 border border--gray border--2"/>
