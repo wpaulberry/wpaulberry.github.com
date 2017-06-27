@@ -9,5 +9,6 @@ bg-image: jump.jpg
 
 
 I'm a 2nd year student at the University of Colorado School of Dental Medicine. This is where I post updates about my experiences in Dental School.
-
+<br>
+<br>
 This website is a work in progress (and in learning to code)...check back for updates!
