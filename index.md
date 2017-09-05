@@ -3,7 +3,7 @@ layout: home
 bg-image: jump.jpg
 ---
 
-<img src="/assets/img/profile/faceprofile.jpg" style="float:right;" class="mr12 border border--gray border--2"/>
+<img src="/assets/img/profile/faceprofile_sm.jpg" style="float:right;" class="mr12 border border--gray border--2"/>
 
 ## Paul Berry - DDS Candidate 2019
 <br>
