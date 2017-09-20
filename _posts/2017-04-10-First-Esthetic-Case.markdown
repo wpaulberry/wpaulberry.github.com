@@ -8,7 +8,7 @@ teaser: >
   My first clinical esthetic case...
 ---
 
-I replaced the failing DF composites on #8. Color matching and translucency are far from perfect, but a fun first esthetic case. Next up is #9, 10, and 11.
+I replaced the failing DF composites on #8. Color matching and translucency are far from perfect, but a fun first esthetic case. Next up are #s 9, 10, and 11.
 <br>
 <img src="/assets/img/work/full/esthetic_before.jpg" style="float:center;" class="mr12 border border--gray border--2"/>
 <br>
