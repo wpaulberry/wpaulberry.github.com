@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  First esthetic restoration...
-date:   2017-04-10 17:14:19 -0700
+title:  Alternative Crown Preparations...
+date:   2017/11/1 17:14:19 -0700
 categories: root
 thumb: /assets/img/work/thumbs/esthetic_before.jpg
 teaser: >
-  My first clinical esthetic case...
+  Utilizing alternative preparation designs to conserve healthy tooth structure...
 ---
 <br>
 <br/>

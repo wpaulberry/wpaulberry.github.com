@@ -1,6 +1,6 @@
 ---
 layout: home
-bg-image: jump.jpg
+bg-image: ski.jpg
 ---
 
 <img src="/assets/img/profile/faceprofile_sm.jpg" style="float:right;" class="mr12 border border--gray border--2"/>
