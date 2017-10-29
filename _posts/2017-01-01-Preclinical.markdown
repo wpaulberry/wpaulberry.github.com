@@ -7,7 +7,8 @@ thumb: /assets/img/work/thumbs/typodont.jpg
 teaser: >
   FDP Lab...
 ---
-
+<br>
+<br>
 This semester we've been working on our FDP preps and provisionals.
 <br>
 <br>
