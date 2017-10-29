@@ -14,20 +14,6 @@
 
       <div class="page-content flex-child p12">
 
-        <div class="flex-child flex-parent flex-parent--space-between-main flex-parent--center-main">
-          <div class="flex-child previous mr12">
-            {% if page.previous %}
-              <a class="link txt-l" href="{{ page.previous.url }}"><< Previous: {{page.previous.title}} </a>
-            {% endif  %}
-          </div>
-
-          <div class="flex-child next ml12">
-            {% if page.next %}
-              <a class="link txt-l" href="{{ page.next.url }}">Next: {{page.next.title}} >></a>
-            {% endif  %}
-          </div>
-        </div>
-
   			<div class="page-body">
 
           <h1 class="txt-h1">{{page.title}}</h1>
@@ -36,16 +22,16 @@
 
   			</div>
 
-        <div class="flex-child flex-parent flex-parent--space-between-main flex-parent--center-main">
+        <div class="flex-child flex-parent flex-parent--space-between-main flex-parent--center-main my24">
           <div class="flex-child previous mr12">
             {% if page.previous %}
-              <a class="link txt-l" href="{{ page.previous.url }}"><< Previous: {{page.previous.title}} </a>
+              <a class="btn btn--s bg-darken50 bg-darken75-on-hover txt-l" href="{{ page.previous.url }}"> Previous: {{page.previous.title}} </a>
             {% endif  %}
           </div>
 
           <div class="flex-child next ml12">
             {% if page.next %}
-              <a class="link txt-l" href="{{ page.next.url }}">Next: {{page.next.title}} >></a>
+              <a class="btn btn--s bg-darken50 bg-darken75-on-hover txt-l" href="{{ page.next.url }}">Next: {{page.next.title}} </a>
             {% endif  %}
           </div>
         </div>
