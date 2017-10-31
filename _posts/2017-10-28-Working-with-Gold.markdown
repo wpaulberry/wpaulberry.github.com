@@ -17,3 +17,8 @@ Despite a large existing restoration with recurrent caries on the MB cusp, much 
  Recurrent caries visible on the MB cusp, fractured distal marginal ridge...
  </div>
 </div>
+
+<div class='flex-parent flex-parent--center-main mt120'>
+ <div class='flex-child bg-darken10'>Standby! The die system is at the lab and the FGC should be back next week!</div>
+</div>
+<br>
