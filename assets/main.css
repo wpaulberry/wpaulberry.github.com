@@ -16,6 +16,7 @@ div.page-content{
   min-width: 400px !important;
   background-color: #FAFAFF;
   opacity: 0.9;
+  max-width:1000px;
 }
 
 ul.post-list{
