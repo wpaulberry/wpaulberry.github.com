@@ -11,11 +11,11 @@ bg-image: trees.jpg
 <br/>
 
 <div class='flex-parent mt48'>
- <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/thumbs/denture_side.jpg" class="mr12 border border--gray border--2"/></div>
+ <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/pindex.jpg" class="mr12 border border--gray border--2"/></div>
  <div class='flex-child flex-child--grow mt48'>
+ <br><br/>
  <strong>why Dentistry?</strong>
- <br>
- <br/>
+ <br><br/>
  <p>I get to make things with <strong>my hands</strong></p>
  <p>I get to work with <strong>people</strong></p>
  <p>I enjoy <strong>hands-on problem solving</strong></p>
