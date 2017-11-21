@@ -20,18 +20,18 @@ bg-image: snow.jpg
 <br><br/>
 
 <div class='flex-parent mt48 flex-parent--center-main flex-parent--wrap'>
- <div class='flex-child flex-child--no-shrink mr12'
-      style="width:30%; min-width:200px;">
+ <div class='flex-child flex-child--no-shrink mt6 mr12'
+      style="width:29%; min-width:200px;">
         <img class="border border--gray border--2" src="/assets/img/work/full/nerves.jpg" />
   </div>
 
- <div class='flex-child flex-child--no-shrink mr12'
-      style="width:30%; min-width:200px;">
+ <div class='flex-child flex-child--no-shrink mt6 mr12'
+      style="width:39%; min-width:240px;">
         <img class="border border--gray border--2" src="/assets/img/work/full/bike.jpg" />
   </div>
 
- <div class='flex-child flex-child--no-shrink'
-      style="width:30%; min-width:200px;">
+ <div class='flex-child flex-child--no-shrink mt6'
+      style="width:29%; min-width:200px;">
         <img class="border border--gray border--2" src="/assets/img/work/full/jwdxwaxup.jpg" />
   </div>
 
