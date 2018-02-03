@@ -1,0 +1,43 @@
+---
+layout: post
+title:  Rocky Mountain Dental Convention...
+date:   2018-01-02 17:14:19 -0700
+categories: Clinical
+thumb: /assets/img/work/thumbs/rmdc.jpg
+teaser: >
+  The beginning of CE...
+---
+
+<br>
+<br/>
+
+Last week we were given Friday off from clinic and classes to attend lectures at the RMDC here in Denver. I registered for two classes, "Root Canals Done Faster, Better, and Safer: A Practical Course for GPs," and "Hybrids and Overdentures Made Simpler, Stronger, and More Efficiently"
+
+
+<div class='flex-parent mt48'>
+ <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/rotary.jpg" class="mr12 border border--gray border--2"/></div>
+ <div class='flex-child flex-child--grow mt120'>
+I've really enjoyed my pre-clinical and clinical endo experiences so far and look forward to incorporating this discipline into my future practice. Now with an understanding of the fundamentals, it was fascinating to get a look deeper into the world of endo. Presented by Dr. Manor Haas, an endodontist from Toronto, the course covered everything from anesthesia for "hot" teeth, various instrumentation techniques and systems, to avoiding complications like file separation and canal ledging.
+ </div>
+</div>
+
+<div class='flex-parent mt48'>
+ <div class='flex-child flex-child--grow mt120 align-left'>
+  Before starting dental school I briefly assisted for an endodontist. That early clinical exposure to endo has been suprisingly helpful now that I'm the one in the operator chair.
+  </div>
+ <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/apex_locator.jpg" class="mr12 border border--gray border--2"/></div>
+</div>
+
+<div class='flex-parent mt48'>
+<div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/hybrid.jpg" class="mr12 border border--gray border--2"/></div>
+ <div class='flex-child flex-child--grow mt120 align-left'>
+  The afternoon session was presented by Dr. Sam Strong about his experiences incorporating digital hybrids and overdentures into his practice. While the interface between the design and final product can still be cumbersome and still needs time to smooth out, there's little doubt that digital dentistry has yet to reach it's zenith. I'm excited to see how it will help me in the future to deliver higher quality and consistency to my practice and patients.
+  </div>
+</div>
+
+
+ <div class='flex-child flex-child--grow mt120 align-center'>
+ From the very beginning, one of my primary attractions to dentistry was the opportunity for endless learning; there will always be ways to improve my existing skill set and add new ones to my practice. I don't see this as a task, but rather an opportunity and a sign of how lucky I am to be in this profession.
+</div>
+
+<div class='flex-parent mt48'>
