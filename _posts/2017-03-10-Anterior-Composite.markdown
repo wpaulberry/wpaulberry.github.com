@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Anterior Composite Restorations...
+title:  Anterior composite restorations...
 date:   2017-04-10 17:14:19 -0700
 categories: root
 thumb: /assets/img/work/thumbs/esthetic_before.jpg

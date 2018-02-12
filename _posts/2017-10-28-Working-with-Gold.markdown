@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Alternative Crown Preparations...
+title:  Alternative crown preparations...
 date:   2017-10-27 17:14:19 -0700
 categories: root
 thumb: /assets/img/work/thumbs/design.jpg

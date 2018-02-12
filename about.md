@@ -11,9 +11,10 @@ bg-image: trees.jpg
 <br/>
 
 <div class='flex-parent mt48'>
- <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/pindex.jpg" class="mr12 border border--gray border--2"/></div>
+ <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/knife_board.jpg" class="mr12 border border--gray border--2"/></div>
  <div class='flex-child flex-child--grow mt48'>
  <br><br/>
+
  <strong>why Dentistry?</strong>
  <br><br/>
  <p>I get to make things with <strong>my hands</strong></p>
@@ -35,7 +36,7 @@ bg-image: trees.jpg
 </div>
 
 <div class='flex-parent mt48'>
- <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/helicopter.jpg" class="mr12 border border--gray border--2"/></div>
+ <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/backpacking.jpg" class="mr12 border border--gray border--2"/></div>
  <div class='flex-child flex-child--grow mt48'>
  <strong>my background...</strong>
  <br>
@@ -45,3 +46,5 @@ bg-image: trees.jpg
  <p><strong>PROBLEM SOLVING, CREATIVITY, COMMUNITY.</strong></p>
  </div>
 </div>
+<br>
+<br/>

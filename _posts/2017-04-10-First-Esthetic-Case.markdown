@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  First esthetic restoration...
+title:  First cosmetic case...
 date:   2017-04-10 17:14:19 -0700
 categories: root
 thumb: /assets/img/work/thumbs/matt.jpg

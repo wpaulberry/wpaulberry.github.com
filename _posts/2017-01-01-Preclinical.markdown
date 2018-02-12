@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  FDP Lab...
+title:  FDP lab...
 date:   2017-02-10 17:14:19 -0700
 categories: Clinical
 thumb: /assets/img/work/thumbs/typodont.jpg
