@@ -1,0 +1,62 @@
+---
+layout: post
+title:  Problem solving...
+date:   2018-02-14 17:14:19 -0700
+categories: root
+thumb: /assets/img/work/thumbs/stump.jpg
+teaser: >
+  A clinical episode of MacGyver...
+---
+<br>
+<br/>
+
+ While scaling during a routine Perio Maintenance, the PFM crown on #2 popped clean off and took the buildup with it...yikes! Closer inspection of the remaining tooth revealed recurrent caries had penetrated the margin of the crown and undermined the buildup.
+ <br>
+ <br/>
+In a lengthy discussion with the patient we explored different treatment options to solve the problem including a full-blown attempt to save the tooth with RCT retreatment, possible crown lengthening, post-and-core retained buildup and a new final impression, extraction, site preservation, and an implant, or an attempt to recement the existing crown and hope for the best. Adjacent sites #3 and #4 are soon to be restored with individual implant crowns and we discussed the possible impacts of these treatment options on those final prostheses.
+<br>
+<br/>
+Though I informed the patient the long-term success of recementing the existing crown on the remaining tooth structure was little to none, he opted to roll the dice and give it a try.
+
+<div class='flex-parent mt48'>
+ <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/stump.jpg" class="mr12 border border--gray border--2"/></div>
+ <div class='flex-child flex-child--grow mt120'>
+ Mild recurrent caries evident, especially around the coronal GP of this previously endo treated tooth. An explorer also revealed a mesial root furcation exposure.
+ </div>
+</div>
+
+<div class='flex-parent mt48'>
+ <div class='flex-child flex-child--grow mt120 align-left'>
+   Though off-angle, the radiograph shows very little remaining ferrule and the likelihood of further furcation exposure should we try crown lengthening.
+  </div>
+ <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/radiograph.jpg" class="mr12 border border--gray border--2"/></div>
+</div>
+
+<div class='flex-parent mt48'>
+ <div class='flex-child flex-child--grow mt120 align-left'>
+  I used a slow-speed round bur to remove caries and removed ~2mm of GP in each canal to improve the retention of my cement "posts".
+  </div>
+ <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/prep.jpg" class="mr12 border border--gray border--2"/></div>
+</div>
+
+<div class='flex-parent mt48'>
+ <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/crown_1.jpg" class="mr12 border border--gray border--2"/></div>
+ <div class='flex-child flex-child--grow mt120 align-left'>
+ The composite buildup seemed well-retained to the intaglio of the crown so I opted to leave it in place and use it's mass to help create retentive features for the cement.
+ </div>
+</div>
+
+<div class='flex-parent mt48'>
+ <div class='flex-child flex-child--grow mt120'>
+ I cleaned the margins of old cement, made sure the new cement fully filled the prepped canal spaces and retentive lugs of the buildup and stuck it back on. So far so good, fingers crossed!
+  </div>
+ <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/crown_2.jpg" class="mr12 border border--gray border--2"/></div>
+</div>
+
+<div class='flex-parent mt48'>
+ <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/crown_3.jpg" class="mr12 border border--gray border--2"/></div>
+ <div class='flex-child flex-child--grow mt120'>
+ This sort of on-the-fly problem solving is one of the many reasons I love dentistry.</div>
+</div>
+<br>
+<br/>
