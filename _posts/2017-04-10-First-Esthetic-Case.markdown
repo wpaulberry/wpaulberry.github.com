@@ -10,7 +10,7 @@ teaser: >
 <br>
 <br/>
 
- I replaced the composite restoration on #9 for a fellow classmate to improve color and incisal edge length. Just in time for his upcoming wedding photos!
+ I replaced the composite restoration on #9 for a fellow classmate to improve color and incisal edge length. The difference of the final product is subtle, but a bit of a better match. Next time I'd like to make better use of light composite shades to introduce white "check marks" for better natural characterization.
 
 <div class='flex-parent mt48'>
  <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/matt_before.jpg" class="mr12 border border--gray border--2"/></div>
@@ -21,14 +21,14 @@ teaser: >
 
 <div class='flex-parent mt48'>
  <div class='flex-child flex-child--grow mt120 align-center'>
-  The waxup extended the incisal edge...
+  A tiny waxup modification extended the incisal edge...
   </div>
  <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/matt-waxup-side.png" class="mr12 border border--gray border--2"/></div>
 </div>
 
 <div class='flex-parent mt48'>
  <div class='flex-child flex-child--grow mt120 align-center'>
-  putty lingual stent...
+  Putty lingual stent...
   </div>
  <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/matt-waxup-stent.png" class="mr12 border border--gray border--2"/></div>
 </div>
@@ -36,7 +36,7 @@ teaser: >
 <div class='flex-parent mt48'>
  <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/matt_during.jpg" class="mr12 border border--gray border--2"/></div>
  <div class='flex-child flex-child--grow mt120 align-center'>
- original composite removed, prep etched primed and bonded.
+ Original composite removed, prep etched primed and bonded.
  </div>
 </div>
 

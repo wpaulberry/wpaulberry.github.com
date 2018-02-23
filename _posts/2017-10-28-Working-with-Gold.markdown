@@ -9,7 +9,10 @@ teaser: Utilizing alternative preparation designs to conserve healthy tooth stru
 <br>
 <br/>
 
-Despite a large existing restoration with recurrent caries on the MB cusp, much of the lingual surface was healthy. This presented an opportunity to use a reverse 3/4 crown design to conserve as much sound tooth structure as possible.
+Despite a large existing restoration with recurrent caries on the MB cusp, much of the lingual surface was healthy. This presented an opportunity to use a reverse 7/8 crown design to conserve as much lingual tooth structure as possible.
+<br>
+<br/>
+While pleased with the final product, next time I'd like improve the margin smoothness and use a slightly more conservative chamfer depth.
 
 <div class='flex-parent mt48'>
  <div class='flex-child flex-child--no-shrink w600'><img src="/assets/img/work/full/js_preop.jpg" class="mr12 border border--gray border--2"/></div>
